@@ -2,6 +2,12 @@
 
 A local RAG (Retrieval Augmented Generation) implementation using Ollama for embeddings and LLM inference.
 
+## Test
+
+```bash
+python -m unittest test_ingest.py -v
+```
+
 ## Setup
 
 1. Install dependencies:

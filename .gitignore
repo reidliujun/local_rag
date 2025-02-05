@@ -40,3 +40,4 @@ chroma_db/
 .DS_Store
 Thumbs.db
 .env
+*.csv
