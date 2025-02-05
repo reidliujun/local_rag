@@ -1,0 +1,10 @@
+langchain
+langchain-community
+langchain-ollama
+chromadb
+unstructured[md]
+python-docx
+pypdf
+gradio
+watchdog
+python-dotenv
